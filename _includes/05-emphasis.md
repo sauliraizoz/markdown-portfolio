@@ -1,2 +1,1 @@
-__Niko tiene frio__
-_Niko tiene calor_
+¡Gracias por leerme!
